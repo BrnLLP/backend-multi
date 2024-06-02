@@ -1,0 +1,13 @@
+{
+    "name": "servico-reciclaveis-vidro",
+    "version": "1.0.0",
+    "description": "Serviço de reciclagem de vidro",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.9"
+    }
+  }
